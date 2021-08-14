@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "quickjs-atom.h": "c",
+        "typeinfo": "c",
+        "quickjs-opcode.h": "c",
+        "conio.h": "c",
+        "fcntl.h": "c",
+        "crtdefs.h": "c",
+        "io.h": "c",
+        "windows.h": "c",
+        "windef.h": "c",
+        "time.h": "c",
+        "timeb.h": "c",
+        "malloc.h": "c"
+    }
+}
